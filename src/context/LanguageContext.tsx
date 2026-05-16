@@ -381,7 +381,6 @@ const translations = {
     'staff.failedToCreate': 'ஊழியரை உருவாக்க முடியவில்லை',
     'staff.activatedSuccessfully': 'வெற்றிகரமாக செயல்படுத்தப்பட்டது',
     'staff.deactivatedSuccessfully': 'வெற்றிகரமாக செயலிழக்கச் செய்யப்பட்டது',
-    'nav.familyManagement': 'குடும்ப மேலாண்மை',
     'EventManagement': 'நிகழ்வு மேலாண்மை',
     'ChatManagement': 'அரட்டை மேலாண்மை',
     'PostManagement': 'இடுகை மேலாண்மை',
